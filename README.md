@@ -1,3 +1,4 @@
+
 # Ex.No:6 Design an android application Send SMS using Intent.
 
 
@@ -30,7 +31,7 @@ Step 7: Save and run the application.
 /*
 Program to create and design an android application Send SMS using Intent.
 Developed by:SYED JAVEED H
-Registeration Number :212221220055
+Registeration Number : 212221220055
 */
 ```
 ## ACTIVITY_MAIN.XML
@@ -224,9 +225,10 @@ public class MainActivity extends AppCompatActivity {
 
 ![second](https://github.com/yuvaraj-csk/sendsms/assets/134052574/eb844bc2-7041-4a00-8661-894625f1c9f0)
 
-<img src="https://github.com/yuvaraj-csk/sendsms/assets/134052574/952b47c4-d74a-4894-97b3-852dafae32ba" width="300" height="600" alt="Description of the image">
+![smsmessages](https://github.com/yuvaraj-csk/sendsms/assets/134052574/952b47c4-d74a-4894-97b3-852dafae32ba)
 
-<img src="https://github.com/yuvaraj-csk/sendsms/assets/134052574/f0ea39f6-233c-475b-a3ac-f2bc61a448c0" width="300" height="600" alt="Description of the image">
+
+![fourth](https://github.com/yuvaraj-csk/sendsms/assets/134052574/f0ea39f6-233c-475b-a3ac-f2bc61a448c0)
 ```
 
 ```
