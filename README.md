@@ -1,4 +1,3 @@
-
 # Ex.No:6 Design an android application Send SMS using Intent.
 
 
@@ -30,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to create and design an android application Send SMS using Intent.
-Developed by: SYED JAVEED H
-Registeration Number : 212221220055
+Developed by:SYED JAVEED H
+Registeration Number :212221220055
 */
 ```
 ## ACTIVITY_MAIN.XML
@@ -219,18 +218,18 @@ public class MainActivity extends AppCompatActivity {
 
 </manifest>
 ```
-
 ## OUTPUT
 
-![image](https://github.com/SyedJaveed786/sendsms/assets/106874713/654215e4-81f4-4a02-8d38-c273adfe5fdb)
+![first](https://github.com/yuvaraj-csk/sendsms/assets/134052574/26eedbe2-e5a2-4e4f-b290-d310ba7545b4)
 
-![image](https://github.com/SyedJaveed786/sendsms/assets/106874713/9da1fc7f-bdd7-4049-a83e-454e35ba6a6c)
+![second](https://github.com/yuvaraj-csk/sendsms/assets/134052574/eb844bc2-7041-4a00-8661-894625f1c9f0)
 
-![image](https://github.com/SyedJaveed786/sendsms/assets/106874713/15812e9e-4982-448f-af03-183d29782328)
-
-
-![image](https://github.com/SyedJaveed786/sendsms/assets/106874713/3514a50d-4fae-43a1-ba16-9d6af573fd82)
+![smsmessages](https://github.com/yuvaraj-csk/sendsms/assets/134052574/952b47c4-d74a-4894-97b3-852dafae32ba)
 
 
+![fourth](https://github.com/yuvaraj-csk/sendsms/assets/134052574/f0ea39f6-233c-475b-a3ac-f2bc61a448c0)
+```
+
+```
 ## RESULT
 Thus a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
