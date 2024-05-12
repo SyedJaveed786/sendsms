@@ -33,10 +33,10 @@ Program to create and design an android application Send SMS using Intent.
 Developed by:SYED JAVEED H
 Registeration Number : 212221220055
 */
+
+
+
 ```
-
-
-
 ## ACTIVITY_MAIN.XML
 ```
 <?xml version="1.0" encoding="utf-8"?>
