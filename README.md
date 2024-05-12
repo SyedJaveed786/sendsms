@@ -34,16 +34,6 @@ Developed by:SYED JAVEED H
 Registeration Number : 212221220055
 */
 
-
-
-
-
-
-
-
-
-
-
 ```
 ## ACTIVITY_MAIN.XML
 ```
